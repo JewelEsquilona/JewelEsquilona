@@ -9,7 +9,10 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=JewelEsquilona.JewelEsquilona&"/>
   </div>
 
-<h2 align="center"> Hi!👋 I'm Jewel Esquilona!</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jewel+Esquilona!;" />
+</h1>
+
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 18px;">
     🌱   "I am a passionate third-year BSCS college student at a University in my hometown. My love for both computers and working with people drives me forward. Currently, I am honing my coding skills in C++ and Java, as these are the primary languages in my coursework. I believe that this will serve as a valuable portfolio for my future endeavors. Here's to our shared success!"
 <br>
@@ -50,4 +53,7 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00BFFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;I'm+always+down+to+collab+:)">
+</h1>
 </html>
